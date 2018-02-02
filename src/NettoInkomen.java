@@ -4,7 +4,7 @@ public class NettoInkomen {
 
     public NettoInkomen() {
     }
-//bla die bla bla
+
     //bla bla bernd
 
     public static void main(String[] args) {
