@@ -4,8 +4,7 @@ public class NettoInkomen {
 
     public NettoInkomen() {
     }
-
-    //bla bla bernd
+//bla die bla bla bla bla
 
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
